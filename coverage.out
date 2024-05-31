@@ -1,0 +1,20 @@
+mode: set
+github.com/fiatfour/go-unit/main.go:21.13,31.16 4 0
+github.com/fiatfour/go-unit/main.go:31.16,32.38 1 0
+github.com/fiatfour/go-unit/main.go:36.2,47.30 6 0
+github.com/fiatfour/go-unit/adapters/gorm_adapter.go:14.63,16.2 1 1
+github.com/fiatfour/go-unit/adapters/gorm_adapter.go:18.60,19.56 1 1
+github.com/fiatfour/go-unit/adapters/gorm_adapter.go:19.56,22.3 1 1
+github.com/fiatfour/go-unit/adapters/gorm_adapter.go:23.2,23.12 1 1
+github.com/fiatfour/go-unit/adapters/http_adapter.go:14.71,16.2 1 1
+github.com/fiatfour/go-unit/adapters/http_adapter.go:18.67,20.45 2 1
+github.com/fiatfour/go-unit/adapters/http_adapter.go:20.45,22.3 1 1
+github.com/fiatfour/go-unit/adapters/http_adapter.go:24.2,24.53 1 1
+github.com/fiatfour/go-unit/adapters/http_adapter.go:24.53,27.3 1 1
+github.com/fiatfour/go-unit/adapters/http_adapter.go:29.2,29.50 1 1
+github.com/fiatfour/go-unit/core/order_service.go:17.57,19.2 1 1
+github.com/fiatfour/go-unit/core/order_service.go:21.59,22.22 1 1
+github.com/fiatfour/go-unit/core/order_service.go:22.22,24.3 1 1
+github.com/fiatfour/go-unit/core/order_service.go:26.2,26.40 1 1
+github.com/fiatfour/go-unit/core/order_service.go:26.40,28.3 1 0
+github.com/fiatfour/go-unit/core/order_service.go:29.2,29.12 1 1
